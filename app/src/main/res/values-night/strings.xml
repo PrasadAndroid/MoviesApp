@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_email_address">Email address</string>
+    <string name="hint_password_min_6_char">Password (min 6 char)</string>
+    <string name="text_login">Login</string>
+    <string name="error_email">Invalid Email address</string>
+</resources>
